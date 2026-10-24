@@ -1,6 +1,3 @@
-# student-management
-
-
 # Student Management Backend
 
 A REST API for managing students, secured with **JWT authentication**. Built for the Full Stack Java Programming Lab (FSJP) – Assignment 2.
